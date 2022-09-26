@@ -20,10 +20,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'venkatdb' );
+define( 'DB_NAME', 'pennydb' );
 
 /** Database username */
-define( 'DB_USER', 'venkat' );
+define( 'DB_USER', 'penny' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Gvr@12345' );
